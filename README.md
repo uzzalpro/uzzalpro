@@ -5,7 +5,7 @@ Technology is meaningful only when it solves real human problems.
 
 
 ### 📫 Connect With Me
-🌐 Portfolio: uzzaldev.vercel.app
+🌐 Portfolio: www.uzzaldev.vercel.app
 
 📧 Email: uzzal.dna@gmail.com
 
