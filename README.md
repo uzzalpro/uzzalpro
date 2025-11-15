@@ -48,12 +48,17 @@ CI/CD automation
 
 ### 🛠️ Tech Stack
 
-Languages: Python, JavaScript/TypeScript, Bash
-Backend: FastAPI, Flask, Django, SQLAlchemy, PostgreSQL, Redis
+Languages: Python, JavaScript/TypeScript, Bash, Golang
+
+Backend: FastAPI, Flask, Django, PostgreSQL, Redis, Vector DB
+
 Frontend: React, Vite, Redux, Tailwind, ShadCN
+
 AI/ML: PyTorch, TensorFlow, Whisper, Transformers
+
 Tools: Docker, GitHub Actions, Linux
 Cloud: AWS, Firebase
+
 Architectures: Microservices, Event-driven systems, Clean Architecture
 
 ### 📫 Connect With Me
