@@ -57,6 +57,7 @@ Cloud: AWS, Firebase
 Architectures: Microservices, Event-driven systems, Clean Architecture
 
 ### 📫 Connect With Me
-🌐 Portfolio: uzzaldev.vercel.app
+🌐 Portfolio: www.uzzaldev.vercel.app
+
 📧 Email: uzzal.dna@gmail.com
 
