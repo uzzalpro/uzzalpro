@@ -1,6 +1,6 @@
-# Hi there 👋 I'm uzzalpro
+# Hi there 👋 I'm Uzzal 
 
-I'm a software developer who loves building things with JavaScript, TypeScript, and Python. I work on web apps, automation, and open-source projects.
+I'm a software developer who loves building things with Python JavaScript. I work on web apps, automation, and open-source projects.
 
 ## 🔭 I’m working on
 - Building a personal project to explore [topic]
@@ -11,12 +11,12 @@ I'm a software developer who loves building things with JavaScript, TypeScript, 
 - Distributed systems basics
 
 ## 💬 Ask me about
-- JavaScript, Node.js, React, Next.js
+- Python, AI, React.
 - Automation and developer tooling
 - Open-source contribution workflow
 
 ## 📫 How to reach me
-- Email: your-email@example.com
+- Email: uzzal.dna@gmail.com
 - GitHub: https://github.com/uzzalpro
 
 ## ⚡ Fun fact
