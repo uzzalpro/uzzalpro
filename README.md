@@ -1,28 +1,62 @@
-# Hi there 👋 I'm Uzzal 
+💫 Hi, I'm Ngin X — Software Engineer | AI Builder | System Architect
 
-I'm a software developer who loves building things with Python JavaScript. I work on web apps, automation, and open-source projects.
+I’m a Software Engineer II with hands-on experience building production-grade backend systems, AI/LLM-powered applications, and high-scale cloud infrastructures. I’m driven by a simple belief:
+Technology is meaningful only when it solves real human problems.
 
-## 🔭 I’m working on
-- Building a personal project to explore [topic]
-- Contributing to open-source tools around developer experience
+Over the years, I’ve worked across Python, FastAPI, Flask, Django, React/TypeScript, Machine Learning, Cloud, and microservice ecosystems. My work spans from building enterprise-grade applications to designing real-time data systems and AI-driven solutions deployed in production.
 
-## 🌱 I’m learning
-- Advanced TypeScript patterns
-- Distributed systems basics
+🚀 What I Do
+🔹 Backend Engineering (Python Specialist)
 
-## 💬 Ask me about
-- Python, AI, React.
-- Automation and developer tooling
-- Open-source contribution workflow
+FastAPI, Flask, Django, Streamlit
 
-## 📫 How to reach me
-- Email: uzzal.dna@gmail.com
-- GitHub: https://github.com/uzzalpro
+High-performance microservices
 
-## ⚡ Fun fact
-I love coffee and late-night debugging sessions ☕️
+Clean architecture, scaling, caching, background workers
 
-<!-- You can add dynamic badges or GitHub stats here. Example:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzalpro&layout=compact)
--->
+🔹 AI, ML & LLM Integration
+
+Building custom AI assistants, chatbots & intelligent agents
+
+Whisper ASR pipelines (OpenAI + faster-whisper)
+
+Hybrid ML/indicator-driven trading algorithms
+
+NLP, NLU, deep learning (PyTorch, TensorFlow)
+
+🔹 Cloud, DevOps & Distributed Systems
+
+AWS (EC2, S3, IAM, Lambda, CloudWatch, RDS)
+
+Docker, Docker Compose, Kubernetes
+
+Redis pub/sub pipelines
+
+CI/CD automation
+
+🏆 Career Highlights
+
+⚡ Migrated a legacy on-premises system to AWS, cutting operational costs by 50% and boosting system performance by 30%.
+
+🚀 Built multiple production-grade microservices serving thousands of users.
+
+🤖 Designed AI-powered systems including transcription pipelines, legal assistant apps, and trading algorithm engines.
+
+🧩 Led cross-functional engineering teams, managing project scopes, timelines, and architecture.
+
+📚 Taught Data Science at DUET (Dhaka University of Engineering & Technology).
+
+🛠️ Tech Stack
+
+Languages: Python, JavaScript/TypeScript, Bash
+Backend: FastAPI, Flask, Django, SQLAlchemy, PostgreSQL, Redis
+Frontend: React, Vite, Redux, Tailwind, ShadCN
+AI/ML: PyTorch, TensorFlow, Whisper, Transformers
+Tools: Docker, GitHub Actions, Linux
+Cloud: AWS, Firebase
+Architectures: Microservices, Event-driven systems, Clean Architecture
+
+📫 Connect With Me
+🌐 Portfolio: uzzaldev.vercel.app
+📧 Email: uzzal.dna@gmail.com
 
